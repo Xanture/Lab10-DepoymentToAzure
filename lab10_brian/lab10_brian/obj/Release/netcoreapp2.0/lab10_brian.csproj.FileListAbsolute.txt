@@ -1,0 +1,12 @@
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\bin\Release\netcoreapp2.0\lab10_brian.deps.json
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\bin\Release\netcoreapp2.0\lab10_brian.runtimeconfig.json
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\bin\Release\netcoreapp2.0\lab10_brian.runtimeconfig.dev.json
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\bin\Release\netcoreapp2.0\lab10_brian.dll
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\bin\Release\netcoreapp2.0\lab10_brian.pdb
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\lab10_brian.csprojResolveAssemblyReference.cache
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\lab10_brian.csproj.CoreCompileInputs.cache
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\lab10_brian.AssemblyInfoInputs.cache
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\lab10_brian.AssemblyInfo.cs
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\lab10_brian.dll
+C:\projects\401d1\Labs\lab10_brian\lab10_brian\lab10_brian\obj\Release\netcoreapp2.0\lab10_brian.pdb
